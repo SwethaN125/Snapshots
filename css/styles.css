@@ -2,24 +2,7 @@ body{
   background: #fafafa;
   color: #084177;
 }
-.container-fluid{
-  padding: 3% 15% 2%;
-  padding-top: 1%;
-}
-.nav-item{
-  padding: 0 18px;
-}
-.nav-link{
-  font-size: 1.2rem;
-  font-family: "Montserrat";
-  font-weight: 400;
-}
-.logo{
-  border-radius: 100%;
-  width:15%;
-  padding-right: 5px;
-}
-.navbar-brand{
+.h2{
     font-family: "Comforter Brush";
     font-size: 2rem;
 }
