@@ -2,14 +2,14 @@ body{
   background: #fafafa;
   color: #084177;
 }
-.h2{
-    font-family: "Comforter Brush";
-    font-size: 2rem;
-}
 .about{
   justify-content: center;
   text-align: center;
   padding: 5% 7%;
+}
+.about h2{
+    font-family: "Comforter Brush";
+    font-size: 2rem;
 }
 .about-des{
   padding-top: 2%;
